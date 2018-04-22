@@ -1,6 +1,6 @@
-# A tutorial to securely transfer messages
+# A tutorial to securely and automatically deploy projects on production systems
 
-This is a tutorial to securely deploy projects on production systems.
+This is a tutorial to securely and automatically deploy projects on production systems.
 
 ## 0. Contents
 
